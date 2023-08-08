@@ -1,1 +1,2 @@
 # Diabetes-Prediction-Using-MachineLearning-Algorithms
+I have developed a project for predicting diabetes using Machine Learning algorithms namely Naive Bayes Classifier,Support Vector Machine,Logistic Regression and Random Forest.And a web application is also developed for predicting diabetes using "streamlit".Diabetes is predicted based on the features of Age,Insulin,glucose level,skin thickness,pregnancies,BMI,Blood Pressure,Diabetes pedigree function and label as Outcome.The result is given based on Accuracy,Precision,Recall,F1 Score,AUC score.
